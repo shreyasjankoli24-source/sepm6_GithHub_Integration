@@ -7,7 +7,8 @@ public class Sum{
         
         int a = 5;
         int b = 7;
-        int sum = a + b;
+        int c = 8;
+        int sum = a + b + c;
 
         System.out.println("Sum = " + sum);
     }
